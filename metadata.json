@@ -1,0 +1,6 @@
+{
+  "name": "ApexDroid Studio - Enterprise Android & Web App Platform",
+  "description": "The ultimate enterprise-grade Android APK compiler and web studio platform with multi-tool sandbox, live mobile simulator, bKash/Nagad verification, and command center.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
